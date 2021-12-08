@@ -1,2 +1,2 @@
 # labacpp
-labacpp
+лабы по проге
